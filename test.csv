@@ -1,0 +1,11 @@
+﻿TrialNumber,TrialNumber,ran,order,ID,response,choice,win,score
+1,1,1.0,0.0,6,tails-up,tails-up,True,1.0
+2,2,1.0,1.0,6,heads-up,heads-up,True,2.0
+3,3,1.0,2.0,6,tails-up,heads-up,False,2.0
+4,4,1.0,3.0,6,heads-up,tails-up,False,2.0
+5,5,1.0,4.0,6,tails-up,heads-up,False,2.0
+6,6,1.0,5.0,6,heads-up,heads-up,True,3.0
+7,7,1.0,6.0,6,tails-up,tails-up,True,4.0
+8,8,1.0,7.0,6,heads-up,heads-up,True,5.0
+9,9,1.0,8.0,6,tails-up,tails-up,True,6.0
+10,10,1.0,9.0,6,tails-up,tails-up,True,7.0
