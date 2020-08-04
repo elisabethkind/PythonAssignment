@@ -4,8 +4,8 @@ Author: Elisabeth Kind
 
 How to use the program:
 * set working directory by typing the following into the console (replace dir_path with path to your desired 
-  working directory - e.g. c:\\Users\\uname\\desktop\\python):
-	import os
+  working directory - e.g. c:\\Users\\uname\\desktop\\python):\
+	import os\
 	os.chdir("dir_path")
 * make sure all of the following files are stored in this directory:
 	- 'Assignment_Functions.py'
