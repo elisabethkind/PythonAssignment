@@ -26,7 +26,7 @@ INPUTS (in console):
   heads and 40% chance of tails
 
 OUTPUT:
-* csv file containing all responses, named after the subject id - e.g. '10.csv'
+* csv file containing all responses, named after the subject id - e.g. '10.csv'\
 	-> if file name already taken, a new file name will be generated automatically - e.g. '10_2.csv'
 
 HOW TO MAKE SOME CHANGES:
