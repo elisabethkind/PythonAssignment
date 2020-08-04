@@ -1,8 +1,22 @@
-# PythonAssignmentPython Assignment (#5 Psychopy: Matching pennies)
-Submission: 07.08.2020
+# Python Assignment (#5 Psychopy: Matching pennies)
+Submission: 07.08.2020\
 Author: Elisabeth Kind
 
-How to use the program:
+Python script that allows a subject to play a game of matching pennies against the computer.
+* subject chooses with a key press whether to present their penny heads-up or tails-up
+* computer makes its choice randomly
+* when the subject has made their choice, both pennies are shown on the screen
+* the subject is informed whether they won that round or not, and what the current scores are
+* allow the subject to quit at any round by pressing a quit key instead of making a choice
+
+Additional features:
+* allow the experimenter to allocate the computer a different strategy, for example, biasing its choice towards heads or tails, or towards switching from its choice on  
+  the previous round
+* produce a printout of the results at the end of the program showing:
+	- how often the subject switched their choice so that it was different from their choice in the previous round
+	- how often the subject switched their choice so that it was different from the computer's choice in the previous round
+
+HOW TO USE THE PROGRAM:
 * set working directory by typing the following into the console (replace dir_path with path to your desired 
   working directory - e.g. c:\\Users\\uname\\desktop\\python):\
 	import os\
