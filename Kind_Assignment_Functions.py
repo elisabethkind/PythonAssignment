@@ -56,6 +56,7 @@ def count_prev_switches(list_trial, list_prev, t_nr):
 # %% Function 2
     
 def append_list_as_row(file_name, list_of_elem):
+    # adapted from: https://thispointer.com/python-how-to-append-a-new-row-to-an-existing-csv-file/
     """
     Function that adds a new row to an existing csv file.
     
